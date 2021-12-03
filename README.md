@@ -1,4 +1,4 @@
 # server
 
-cnmp i
-cnpm run serve
+### cnmp i
+###  cnpm run serve
